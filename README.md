@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋, I'm Nishant Singh</h1>
+<!-- <h1 align="center">Hey 👋, I'm Nishant Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?lines=Aspiring+Software+Developer;DSA+Focused;Backend+Enthusiast;Building+Real-Time+Systems+🚀&center=true&width=500&height=50">
@@ -140,4 +140,4 @@
 
 <p align="center">
   ⭐ From <a href="https://github.com/Nits-007">Nits-007</a>
-</p>
+</p> -->
